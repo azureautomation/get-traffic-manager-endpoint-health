@@ -1,0 +1,20 @@
+{
+    "Author": "Nemanja.Jovic",
+    "ContentSize": 5629,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/get-traffic-manager-endpoint-health/master/Get-AzTrafficManagerEndpointHealth.ps1",
+    "DownloadCount": 606,
+    "Id": "Get-Traffic-Manager-83e6d70d",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 193,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-4-6T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Powershell code with two helper functions and function that is checking the health of the traffic manager endpoints.1. Function Find-EmptyString - Just a nice way of handling the variables that are empty with the custom output message.2. Function Confirm-AzSession - Piece of code",
+    "Title": "Get Traffic Manager Endpoint Health",
+    "UpdatedDate": "2019-4-6T00:00:00",
+    "Url": "https://github.com/azureautomation/get-traffic-manager-endpoint-health",
+    "UserTags": ""
+}
